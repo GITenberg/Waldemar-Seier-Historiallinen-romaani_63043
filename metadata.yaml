@@ -1,5 +1,5 @@
 _repo: Waldemar-Seier-Historiallinen-romaani_63043
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Valdemar Seier. Finnish
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '44890'
     url: http://www.gutenberg.org/2009/agents/44890
     wikipedia: https://fi.wikipedia.org/wiki/Maija_Halonen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ingemann, Bernhard Severin
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Bernhard_Severin_Ingemann
     - https://da.wikipedia.org/wiki/B.S._Ingemann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63043#Waldemar-Seier-Historiallinen-romaani
 gutenberg_issued: '2020-08-25'
 gutenberg_type: Text
 identifiers:
